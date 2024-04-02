@@ -14,3 +14,5 @@ This is a simple, web-based weather application that allows users to search for 
 - `index.html`: The main HTML document that structures the weather app.
 - `style.css`: Contains all the styles for the app, making it visually appealing.
 - `index.js`: The JavaScript file that contains logic for fetching weather data and updating the UI accordingly, with the use of API
+
+*** Add all images (png files) to a folder and name it "Images", for expected output ***
